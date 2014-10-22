@@ -1,0 +1,8 @@
+- Can you take a look at: https://github.com/davidmartinezanim/Modular_GUI
+- The idea of what I'm trying to do is https://github.com/davidmartinezanim/Modular_GUI/wiki/Goals
+- Although I have a simple version working (http://elusiveideas.com/modularGUI.mp4), what I'm doing now in github is a clean version of it. I say clean version because if you saw the original code, it would be like stabbing your own eyes.
+
+A couple of questions in regards of my actual code:
+
+- If I remove the comment in main file, can I save stacktrace into a file and let the user know to look at it (maybe in the future send email)
+- Can you see anything wrong with the way I'm creating the menus? I decided to do that to avoid unnecessary clutter. I always end up with programs of a few hundreds lines creating the interface alone. Also, if I do create the menu the way I am creating it. Where would you put the actions and/or procedures that those menus call?
