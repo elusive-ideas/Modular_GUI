@@ -12,7 +12,7 @@ try:
     form.show()
     app.exec_()
 
-except:
+except Exception:
     log.error('Failed to load the Modular GUI. Check "stacktrace.txt" '
               'for details')
 
