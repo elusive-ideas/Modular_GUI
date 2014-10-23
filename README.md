@@ -5,10 +5,6 @@ Modular_GUI
 
 Modular GUI using PySide and Yapsy
 
-## Current Status
-
-Thanks for taking the time and check the project. Be aware that this is a Work-in-Progress project at the moment. None of the functionality is actually in place. Hopefully, I will start to get the basic functionality within the following weeks.
-
 ## Summary
 
 The idea of the Modular GUI is to encourage small modules that can be connected with each other. That means that you can focus on get a small feature just right and then plug it into a bigger sistem.
@@ -16,6 +12,10 @@ The idea of the Modular GUI is to encourage small modules that can be connected 
 All the nuances on how different elements of the interface fall together in the same space are managed for you so you can focus on the task at hand.
 
 Finally, versioning of modules means that you can always go back if something goes wrong.
+
+## Current Status
+
+Be aware that this is a Work-in-Progress project at the moment. None of the functionality is actually in place. Hopefully, I will start to get the basic functionality within the following weeks.
 
 ## Goals
 
