@@ -5,7 +5,7 @@ import menubar
 log = logging.getLogger('modular_GUI.ui')
 
 
-class MyMainWindow(QtGui.QMainWindow):
+class MyMainWindow(QtGui.QMainWindow, object):
     def __init__(self, parent=None):
         log.debug('Initialising the Modular GUI')
         super(MyMainWindow, self).__init__()
