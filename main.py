@@ -13,7 +13,11 @@ try:
     app.exec_()
 
 except:
-    log.error('Failed to load the Modular GUI. Check "stacktrace.txt" for details')
+    log.error('Failed to load the Modular GUI. Check "stacktrace.txt" '
+              'for details')
+
     with open("stacktrace.txt", "w") as text_file:
         text_file.write(traceback.format_exc())
-    raise Exception('Failed to load the Modular GUI. Check "stacktrace.txt" for details')
+
+    raise Exception('Failed to load the Modular GUI. Check "stacktrace.txt" '
+                    'for details')

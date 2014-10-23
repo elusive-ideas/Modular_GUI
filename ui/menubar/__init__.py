@@ -1,6 +1,7 @@
-import fileMenu
+import file_menu
 
-def _create(ui):
+
+def create(ui):
     menubar = ui.menuBar()
 
-    fileMenu._create(menubar)
+    file_menu.create(menubar)
