@@ -1,2 +1,6 @@
 *.pyc
 ToDo.txt
+.pypirc
+dist
+Modular_GUI.egg-info
+.idlerc

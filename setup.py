@@ -1,11 +1,8 @@
-import ez_setup
-ez_setup.use_setuptools()
-
 from setuptools import setup, find_packages
 
 setup(
-    name="Modular GUI",
-    version="0.0.1",
+    name="Modular_GUI",
+    version="0.0.2",
     packages=find_packages(),
     install_requires=['PySide', ],
     author="David Martinez",

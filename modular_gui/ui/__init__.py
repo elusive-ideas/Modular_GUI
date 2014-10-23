@@ -8,7 +8,7 @@ log = logging.getLogger('modular_GUI.ui')
 class MyMainWindow(QtGui.QMainWindow, object):
     def __init__(self, parent=None):
         log.debug('Initialising the Modular GUI')
-        super(MyMainWindow, self).__init__()
+        super(MyMainWindow, self).__init__(parent)
 
         menubar.create(self)
 
