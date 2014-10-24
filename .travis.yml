@@ -7,3 +7,5 @@ python:
 #script:  PLEASE CHANGE ME
 install:
   - pip install PySide
+script:
+  echo "TODO"
