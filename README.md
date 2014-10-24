@@ -26,7 +26,7 @@ Be aware that this is a Work-in-Progress project at the moment. None of the func
 
 You can use PIP to install the application:
 
-`pip install Modular_GUI`
+`pip install modular-gui`
 
 You can also clone the repo using git:
 

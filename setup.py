@@ -9,4 +9,5 @@ setup(
     author_email="david.martinez.anim@gmail.com",
     description="Modular GUI using PySide",
     url="https://github.com/davidmartinezanim/Modular_GUI",
+    entry_points={'gui_scripts': ['modular-gui = modular_gui.main', ]}
 )
