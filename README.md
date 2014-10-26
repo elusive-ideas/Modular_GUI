@@ -3,6 +3,7 @@ Modular_GUI
 
 [![Build Status][travis]][travis_repo]
 [![Code Health][landscape]][landscape_repo]
+[![PyPI version][pypi]][pypi_repo]
 
 Modular GUI using PySide and Yapsy
 
@@ -39,4 +40,7 @@ Or you can download the zip file and install it manually.
 [travis_repo]: https://travis-ci.org/davidmartinezanim/Modular_GUI
 [landscape]: https://landscape.io/github/davidmartinezanim/Modular_GUI/master/landscape.png
 [landscape_repo]: https://landscape.io/github/davidmartinezanim/Modular_GUI/master
+[pypi]:https://badge.fury.io/py/modular-gui.svg
+[pypi_repo]:http://badge.fury.io/py/modular-gui
+
 [log]:https://github.com/davidmartinezanim/Modular_GUI/wiki/Goals
