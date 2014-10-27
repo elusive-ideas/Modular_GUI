@@ -1,9 +1,9 @@
 Modular_GUI
 ===========
 
-[![Build Status][travis]][travis_repo]
-[![Code Health][landscape]][landscape_repo]
-[![PyPI version][pypi]][pypi_repo]
+[![Code Health][landscape]][landscape_repo] 
+[![Build Status][travis]][travis_repo] 
+[![PyPI version][pypi]][pypi_repo] 
 
 Modular GUI using PySide and Yapsy
 
