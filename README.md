@@ -4,6 +4,7 @@ Modular_GUI
 [![Code Health][landscape]][landscape_repo] 
 [![Build Status][travis]][travis_repo] 
 [![PyPI version][pypi]][pypi_repo] 
+[![Documentation Status](https://readthedocs.org/projects/modular-gui/badge/?version=latest)](http://modular-gui.readthedocs.org/en/latest/?badge=latest)
 
 Modular GUI using PySide and Yapsy
 
